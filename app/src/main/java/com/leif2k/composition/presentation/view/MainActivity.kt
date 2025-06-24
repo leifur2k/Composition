@@ -1,6 +1,5 @@
-package com.leif2k.composition.presentation
+package com.leif2k.composition.presentation.view
 
-import android.content.pm.ActivityInfo
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity

@@ -1,4 +1,4 @@
-package com.leif2k.composition.presentation
+package com.leif2k.composition.presentation.viewmodel
 
 import android.app.Application
 import androidx.lifecycle.ViewModel

@@ -1,4 +1,4 @@
-package com.leif2k.composition.presentation
+package com.leif2k.composition.presentation.viewmodel
 
 import android.app.Application
 import android.os.CountDownTimer
@@ -65,7 +65,6 @@ class GameViewModel(
     private val _gameResult = MutableLiveData<GameResult>()
     val gameResult: LiveData<GameResult>
         get() = _gameResult
-
 
 
     init {
